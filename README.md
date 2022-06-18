@@ -3,7 +3,10 @@
 I’m currently learning data analysts.
 
 Below are the certificates of my learning in SBER:
+<img src="https://user-images.githubusercontent.com/107409676/174438423-f052e036-36f1-4b12-aadf-74af9106e220.png" width="800">
 
+__________________________________________________________________________________________ 
+                                                                                                                            
 <img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true" width="800">
 
 <img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true" width="800">
