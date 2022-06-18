@@ -4,20 +4,14 @@ I’m currently learning data analysts.
 
 Below are the certificates of my learning in SBER:
 <img src="https://user-images.githubusercontent.com/107409676/174438423-f052e036-36f1-4b12-aadf-74af9106e220.png" width="800">
-
-__________________________________________________________________________________________ 
-                                                                                                                            
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true" width="800">
-
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png?raw=true" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87.png?raw=true" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9%20%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%B8%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BF%D0%BE%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/Python%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" width="800">
-<img src="https://github.com/katushas009/images/blob/main/%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438514-d4467cc5-fa0b-4cad-b6ac-cdf7b671591f.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438556-ec9a3320-d3b2-4cb3-98c5-ac3ae9c2e807.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438567-3be030d8-8dda-4f2d-92f5-e86eae8a002f.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438582-c08935a3-68dc-4cb0-af9e-da7063f8cc3c.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438594-cf8e9eea-e9c2-4b31-99c7-d5cb895cb1a2.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438607-08b6a927-75ac-4f65-993f-fb8a554eb6a1.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438615-874e07c7-9df3-442b-a7d1-7221f5a09343.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438620-d54cb3c5-373b-4314-bbdc-fb3ae110bb23.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438627-6bf62892-6de0-4aaa-bfbf-08216b5d6a54.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438641-f6bfcbfe-254f-44e0-9e98-b83dee82f4c0.png" width="800">
+<img src="https://user-images.githubusercontent.com/107409676/174438658-d6ea04fe-cda4-45a1-a89d-5a533105000e.png" width="800">
