@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="350"/>
 </div>
 
-<h1>
-  hey there 👋
+<h1 align="center">
+hey there 👋
 </h1>
 
 I’m currently learning data analysts
